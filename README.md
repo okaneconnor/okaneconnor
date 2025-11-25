@@ -58,12 +58,9 @@ I design, build, and maintain cloud infrastructure on Microsoft Azure. My focus 
 
 ### GitHub Stats
 
-<a href="https://github.com/okaneconnor">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=okaneconnor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaneconnor&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-<img src="https://streak-stats.demolab.com?user=okaneconnor&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+![GitHub Stars](https://img.shields.io/github/stars/okaneconnor?style=for-the-badge&logo=github&label=Total%20Stars)
+![GitHub Followers](https://img.shields.io/github/followers/okaneconnor?style=for-the-badge&logo=github&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=okaneconnor&style=for-the-badge&color=blue)
 
 ---
 
