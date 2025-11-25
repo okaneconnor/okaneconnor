@@ -2,17 +2,19 @@
 
 **Senior Platform Engineer** at [Kainos](https://www.kainos.com/) | Ireland
 
-I design, build, and maintain cloud infrastructure on Microsoft Azure. My focus is on Infrastructure as Code, container orchestration, and CI/CD—automating everything I can to help development teams ship faster.
+I design, build, and maintain cloud infrastructure on Microsoft Azure. My focus is on Infrastructure as Code, container orchestration, CI/CD.
 
 ---
 
 ### What I Do
 
-- Manage **100+ Azure resources** across multiple environments for UK Public Sector clients
-- Build and maintain **CI/CD pipelines** for 20+ development teams
+- Manage **1000's+ Azure resources** across multiple environments for UK Public Sector clients
+- Build and maintain **CI/CD pipelines** for development teams
 - Lead infrastructure migrations (recently: HashiCorp Vault HA cluster with auto-unseal)
 - Develop **MCP Servers** on Azure for platform tooling
 - Mentor junior engineers and speak at industry meetups
+- Love automating anything and everything where possible
+- Building and learning anything/everything AI related
 
 ---
 
