@@ -50,22 +50,20 @@ I design, build, and maintain cloud infrastructure on Microsoft Azure. My focus 
 
 ### Certifications
 
-<img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="80" alt="Terraform Associate" />&nbsp;&nbsp;
-<img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80" alt="Azure Fundamentals" />&nbsp;&nbsp;
-<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" alt="AWS Cloud Practitioner" />
-
-**HashiCorp Terraform Associate (003)** · **Microsoft Azure Fundamentals (AZ-900)** · **AWS Cloud Practitioner**
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=okaneconnor&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaneconnor&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+<a href="https://github.com/okaneconnor">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=okaneconnor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaneconnor&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=okaneconnor&theme=default&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=okaneconnor&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 ---
 
