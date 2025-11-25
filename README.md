@@ -2,7 +2,7 @@
 
 **Senior Platform Engineer** at [Kainos](https://www.kainos.com/) | Ireland
 
-I design, build, and maintain cloud infrastructure on Microsoft Azure. My focus is on Infrastructure as Code, container orchestration, CI/CD.
+I design, build, and maintain cloud infrastructure on Microsoft Azure. My focus is on Infrastructure as Code, container orchestration, CI/CD, Networking and everything AI 🤖
 
 ---
 
